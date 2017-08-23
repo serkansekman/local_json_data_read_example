@@ -1,4 +1,4 @@
-# Local Json Data Read Example - Yerel Json Verilerini Okuyan Örnek
+# Local Json Data Read Example - Yerel Json Verileri Okuma Örneği
 
 
 Local Json Data Read and Write Example

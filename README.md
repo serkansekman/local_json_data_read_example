@@ -1,5 +1,7 @@
 # Local Json Data Read Example - Yerel Json Verileri Okuma Örneği
 
+Daha detaylı açıklama aşağıdaki linktedir. 
+https://medium.com/@serkansekman/android-yerel-json-veri-okuma-%C3%B6rne%C4%9Fi-b0eb0e40de60
 
 Local Json Data Read and Write Example
 Herhangi bir servis çağrısı yapmadan data sahibi olmak adına mevcut uygulama içinde bulunan bir data kaynağından veri çekmek için res klasörü altında raw adı ile yeni bir klasör oluşturulması gerekmektedir. 
